@@ -17,7 +17,8 @@ This project answers all these questions using structured SQL queries on a real 
 ## Database Schema
 The database contains 11 tables with the following relationships:
 
-![Database Schema](schema.png)
+<img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/ff7eed87-118b-4b3b-afc4-02be8e0297e0" />
+
 
 | Table | Description |
 |---|---|
